@@ -33,3 +33,5 @@ python manage.py runserver
 You can also find full sample files in the `samples/` folder:
 - [sample_input.csv](sample_input.csv)
 - [sample_output.json](sample_output.JSON)
+
+<img width="1917" height="974" alt="api_csv" src="https://github.com/user-attachments/assets/2d07ec2a-6bbd-407e-b6a7-32e3b21a32a5" />
