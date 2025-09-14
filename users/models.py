@@ -1,6 +1,4 @@
 from django.db import models
-from django.db.models import IntegerField
-from rest_framework.fields import CharField, EmailField
 
 
 class User(models.Model):
