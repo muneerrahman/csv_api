@@ -1,0 +1,60 @@
+{
+    "saved_records": 14,
+    "rejected_records": 6,
+    "errors": [
+        {
+            "row": 3,
+            "error": {
+                "age": [
+                    "A valid integer is required."
+                ]
+            }
+        },
+        {
+            "row": 4,
+            "error": {
+                "age": [
+                    "A valid integer is required."
+                ]
+            }
+        },
+        {
+            "row": 5,
+            "error": {
+                "email": [
+                    "user with this email already exists."
+                ],
+                "age": [
+                    "A valid integer is required."
+                ]
+            }
+        },
+        {
+            "row": 8,
+            "error": {
+                "age": [
+                    "A valid integer is required."
+                ]
+            }
+        },
+        {
+            "row": 10,
+            "error": {
+                "email": [
+                    "Enter a valid email address."
+                ],
+                "age": [
+                    "A valid integer is required."
+                ]
+            }
+        },
+        {
+            "row": 14,
+            "error": {
+                "age": [
+                    "A valid integer is required."
+                ]
+            }
+        }
+    ]
+}

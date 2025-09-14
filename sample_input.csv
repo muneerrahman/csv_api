@@ -1,0 +1,21 @@
+name,email,age
+John Doe,john@example.com,25
+Jane Smith,jane@example.com,30
+Mike Ross,mike@example.com,150   # invalid age
+Empty Name,empty@example.com,    # missing age
+Duplicate,john@example.com,40    # duplicate email
+Alice Wonderland,alice@example.com,28
+Bob Builder,bob@example.com,35
+Charlie Chaplin,charlie@example.com,-5   # invalid age
+David Beckham,david@example.com,47
+Eva Green,eva@example,29         # invalid email
+Frank Castle,frank@example.com,33
+George Clooney,george@example.com,61
+Helen Keller,helen@example.com,0
+Igor Igorovich,igor@example.com,121      # invalid age
+John Snow,john.snow@example.com,32
+Kate Winslet,kate@example.com,42
+Lara Croft,lara@example.com,29
+Michael Jordan,mj@example.com,60
+Nancy Drew,nancy@example.com,19
+Oscar Wilde,oscar@example.com,55
